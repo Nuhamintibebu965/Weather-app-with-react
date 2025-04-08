@@ -148,6 +148,9 @@ body{
   flex-direction: column;
   align-items: center;
 }
+.hourly-forecast .weather-item p {
+  color: #fff;
+}
 .hourly-forecast .weather-item .weather-icon{
   width: 28px;
   aspect-ratio: 1;
